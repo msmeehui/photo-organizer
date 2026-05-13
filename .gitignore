@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# Local test artifacts
+validate.sh
+photo-organizer.zip
+
+# Local dev temp files
+/tmp/
